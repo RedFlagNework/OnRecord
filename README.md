@@ -1,11 +1,4 @@
-# OnRecord
-
-OnRecord lets you review coworkers like reviewing restaurants — safely, clearly, and anonymously.
-
-## Say what it felt like to work with them — clearly, carefully, anonymously.
-
-OnRecord does for coworkers what review sites do for restaurants. You can get more information about the tacos in Terminal C than about the team you might work with for the next three years — we change that.
-
-OnRecord is a platform for anonymous coworker reviews that lets you share what it felt like to work with someone — safely, clearly, and without retaliation.
-
-Learn more at [https://onrecord.co](https://onrecord.co)
+OnRecord is a platform for anonymous, structured coworker reviews — doing for colleagues what review sites do for restaurants. Right now, you can get more information about the tacos in Terminal C than about the team you might work with for the next three years. We change that.
+Our focus is on what it’s like to collaborate with someone — their communication style, team dynamics, and trustworthiness. By giving professionals clear, honest, and retaliation-free insights, we help people make smarter career decisions before committing years to the wrong fit.
+Say what it felt like to work with them — clearly, carefully, anonymously.
+Learn more at https://onrecord.co
